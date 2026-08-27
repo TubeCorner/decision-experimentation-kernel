@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using these metadata."
+title: "Decision Experimentation Kernel"
+type: software
+authors:
+  - name: "Ashutosh Kumar"
+repository-code: "https://github.com/TubeCorner/decision-experimentation-kernel"
+version: "0.1.0"
+abstract: >-
+  A small Python framework for decision experimentation and decision evaluation
+  across cases: preserving contradictory outcomes, supporting and opposing
+  evidence, failure analysis, applicability conditions, and scoped hypotheses.
+  Currently demonstrated in editorial, audit, and operations examples; not a
+  claim of universal applicability.
+keywords:
+  - decision experimentation
+  - decision evaluation
+  - contradictory outcomes
+  - failure analysis
+  - scoped hypotheses
+  - evidence
+license: MIT
